@@ -1,12 +1,12 @@
-# flower-grub-theme
-
-Nature Inspired GRUB2 theme
+# floral-grub-theme
 
 to install run install.sh in GRUB folder via terminal
 
 ```bash
 ./install.sh
 ```
+### Floral-Color
 ![](https://github.com/abhishekmallav/GRUB-Themes/blob/main/preview-color.png)
 
+### Floral-Mono
 ![](https://github.com/abhishekmallav/GRUB-Themes/blob/main/preview-mono.png)
