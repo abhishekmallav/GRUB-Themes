@@ -17,6 +17,7 @@ sudo apt install grub-customizer
 ### Floral-Color
 
 ![](https://github.com/abhishekmallav/GRUB-Themes/blob/main/preview-color.png)
+
 ---
 ### Floral-Mono
 
