@@ -4,7 +4,7 @@
 
 ROOT_UID=0
 THEME_DIR="/boot/grub/themes"
-THEME_NAME=Floral
+THEME_NAME=Floral-Mono
 
 MAX_DELAY=20                                        # max delay for user to enter root password
 
