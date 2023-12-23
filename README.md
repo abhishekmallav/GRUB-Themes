@@ -6,7 +6,7 @@ to install run install.sh in theme folder via terminal
 ./install.sh
 ```
 
-### to further customise GRUB install GRUB-Customizer
+### To further customise GRUB install GRUB-Customizer
 
 ```bash
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer
