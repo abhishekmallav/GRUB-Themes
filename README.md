@@ -1,4 +1,4 @@
-# floral-grub-theme
+# GRUB-Themes
 
 to install run install.sh in theme folder via terminal
 
